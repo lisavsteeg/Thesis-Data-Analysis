@@ -1,0 +1,23 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+
+# Raw camera-trap data and archives
+*.zip
+deployment data/
+phase 2 full dataset/
+phase 3 final dataset 2-9-26/
+phase 3 full dataset 23-6-26/
+phase-3 subset/
+phase2 newer/
+south-rift-small-carnivores-phase-2-20250408094710-assets/
+04_Camera Trapping/
+
+# Data files and derived datasets
+*.csv
+*.xlsx
+deployments_clean
+~$*.tmp
